@@ -12,11 +12,24 @@ module.exports = function (grunt) {
     var componentsPath = options.components;
     var sourceList = options.sourceList;
 
+    if (source !== 'all' && !_.contains(sourceList, source)) {
+      grunt.fail.warn('"' + source + '" not found in "sources.json".');    
+    }
     var taskSources = source === 'all' ? sourceList : [source];
     _.each(taskSources, function (source) {
-      var sourceManifest = grunt.file.readJSON(path.join(sourcesPath, source + '.json'));
+      var manifestFilePath = path.join(sourcesPath, source + '.json');
+      if (!grunt.file.exists(manifestFilePath)) {
+        grunt.fail.warn('Source manifest file "' + source + '.json" not found!');
+      }
+      var sourceManifest = grunt.file.readJSON(manifestFilePath);
+      
       var sourceBower = grunt.file.readJSON(path.join(componentsPath, sourceManifest.bower.packageName, 'bower.json'));
-      var file = grunt.file.read(path.join(componentsPath, sourceManifest.bower.packageName, sourceManifest.bower.main));
+      var mainFileName = sourceManifest.bower.main;
+      var mainFilePath = path.join(componentsPath, sourceManifest.bower.packageName, mainFileName);
+      if (!grunt.file.exists(mainFilePath)) {
+        grunt.fail.warn('Main CSS file at "' + mainFilePath + '" not found!');
+      }
+      var file = grunt.file.read(mainFile);
       var re = new RegExp(sourceManifest.selectorRegex, 'gi');
       var delimiter = sourceManifest.selectorDelimiter;
 
@@ -61,7 +74,7 @@ module.exports = function (grunt) {
         });
       }
 
-      var iconsData = {
+      var metaFileData = {
         name: sourceManifest.name,
         slug: sourceManifest.slug,
         homepage: sourceManifest.homepage,
@@ -72,7 +85,7 @@ module.exports = function (grunt) {
       
       grunt.file.write(
         metaFilePath,
-        JSON.stringify(iconsData, null, 2)
+        JSON.stringify(metaFileData, null, 2)
       );
       grunt.log.writeln(metaFileName, metaFileExists ? 'updated.' : 'created.');
     });

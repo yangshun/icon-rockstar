@@ -453,10 +453,6 @@ module.exports = function (grunt) {
 
   grunt.registerTask('rockstar', 'Compile then start a connect web server', function (target) {
     grunt.loadTasks('tasks');
-    if (target) {
-      return grunt.task.run(['iconmeta:' + target]);
-    } else {
-      return grunt.task.run(['iconmeta:all']);
-    }
+    return grunt.task.run(['iconmeta:' + (target ? target : 'all')]);
   });
 };

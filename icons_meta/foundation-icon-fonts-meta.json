@@ -1,0 +1,2164 @@
+{
+  "name": "Foundation Icon Fonts",
+  "slug": "foundation-icon-fonts",
+  "homepage": "http://zurb.com/playground/foundation-icon-fonts-3",
+  "usage": "<i class=\"fi-{name}\"></i>",
+  "version": "3.0.0",
+  "icons": [
+    {
+      "name": "address-book",
+      "categories": [],
+      "tags": [
+        "address",
+        "book"
+      ]
+    },
+    {
+      "name": "alert",
+      "categories": [],
+      "tags": [
+        "alert"
+      ]
+    },
+    {
+      "name": "align-center",
+      "categories": [],
+      "tags": [
+        "align",
+        "center"
+      ]
+    },
+    {
+      "name": "align-justify",
+      "categories": [],
+      "tags": [
+        "align",
+        "justify"
+      ]
+    },
+    {
+      "name": "align-left",
+      "categories": [],
+      "tags": [
+        "align",
+        "left"
+      ]
+    },
+    {
+      "name": "align-right",
+      "categories": [],
+      "tags": [
+        "align",
+        "right"
+      ]
+    },
+    {
+      "name": "anchor",
+      "categories": [],
+      "tags": [
+        "anchor"
+      ]
+    },
+    {
+      "name": "annotate",
+      "categories": [],
+      "tags": [
+        "annotate"
+      ]
+    },
+    {
+      "name": "archive",
+      "categories": [],
+      "tags": [
+        "archive"
+      ]
+    },
+    {
+      "name": "arrow-down",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-left",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "left"
+      ]
+    },
+    {
+      "name": "arrow-right",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-up",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "up"
+      ]
+    },
+    {
+      "name": "arrows-compress",
+      "categories": [],
+      "tags": [
+        "arrows",
+        "compress"
+      ]
+    },
+    {
+      "name": "arrows-expand",
+      "categories": [],
+      "tags": [
+        "arrows",
+        "expand"
+      ]
+    },
+    {
+      "name": "arrows-in",
+      "categories": [],
+      "tags": [
+        "arrows",
+        "in"
+      ]
+    },
+    {
+      "name": "arrows-out",
+      "categories": [],
+      "tags": [
+        "arrows",
+        "out"
+      ]
+    },
+    {
+      "name": "asl",
+      "categories": [],
+      "tags": [
+        "asl"
+      ]
+    },
+    {
+      "name": "asterisk",
+      "categories": [],
+      "tags": [
+        "asterisk"
+      ]
+    },
+    {
+      "name": "at-sign",
+      "categories": [],
+      "tags": [
+        "at",
+        "sign"
+      ]
+    },
+    {
+      "name": "background-color",
+      "categories": [],
+      "tags": [
+        "background",
+        "color"
+      ]
+    },
+    {
+      "name": "battery-empty",
+      "categories": [],
+      "tags": [
+        "battery",
+        "empty"
+      ]
+    },
+    {
+      "name": "battery-full",
+      "categories": [],
+      "tags": [
+        "battery",
+        "full"
+      ]
+    },
+    {
+      "name": "battery-half",
+      "categories": [],
+      "tags": [
+        "battery",
+        "half"
+      ]
+    },
+    {
+      "name": "bitcoin",
+      "categories": [],
+      "tags": [
+        "bitcoin"
+      ]
+    },
+    {
+      "name": "bitcoin-circle",
+      "categories": [],
+      "tags": [
+        "bitcoin",
+        "circle"
+      ]
+    },
+    {
+      "name": "blind",
+      "categories": [],
+      "tags": [
+        "blind"
+      ]
+    },
+    {
+      "name": "bluetooth",
+      "categories": [],
+      "tags": [
+        "bluetooth"
+      ]
+    },
+    {
+      "name": "bold",
+      "categories": [],
+      "tags": [
+        "bold"
+      ]
+    },
+    {
+      "name": "book",
+      "categories": [],
+      "tags": [
+        "book"
+      ]
+    },
+    {
+      "name": "book-bookmark",
+      "categories": [],
+      "tags": [
+        "book",
+        "bookmark"
+      ]
+    },
+    {
+      "name": "bookmark",
+      "categories": [],
+      "tags": [
+        "bookmark"
+      ]
+    },
+    {
+      "name": "braille",
+      "categories": [],
+      "tags": [
+        "braille"
+      ]
+    },
+    {
+      "name": "burst",
+      "categories": [],
+      "tags": [
+        "burst"
+      ]
+    },
+    {
+      "name": "burst-new",
+      "categories": [],
+      "tags": [
+        "burst",
+        "new"
+      ]
+    },
+    {
+      "name": "burst-sale",
+      "categories": [],
+      "tags": [
+        "burst",
+        "sale"
+      ]
+    },
+    {
+      "name": "calendar",
+      "categories": [],
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "name": "camera",
+      "categories": [],
+      "tags": [
+        "camera"
+      ]
+    },
+    {
+      "name": "check",
+      "categories": [],
+      "tags": [
+        "check"
+      ]
+    },
+    {
+      "name": "checkbox",
+      "categories": [],
+      "tags": [
+        "checkbox"
+      ]
+    },
+    {
+      "name": "clipboard",
+      "categories": [],
+      "tags": [
+        "clipboard"
+      ]
+    },
+    {
+      "name": "clipboard-notes",
+      "categories": [],
+      "tags": [
+        "clipboard",
+        "notes"
+      ]
+    },
+    {
+      "name": "clipboard-pencil",
+      "categories": [],
+      "tags": [
+        "clipboard",
+        "pencil"
+      ]
+    },
+    {
+      "name": "clock",
+      "categories": [],
+      "tags": [
+        "clock"
+      ]
+    },
+    {
+      "name": "closed-caption",
+      "categories": [],
+      "tags": [
+        "closed",
+        "caption"
+      ]
+    },
+    {
+      "name": "cloud",
+      "categories": [],
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "comment",
+      "categories": [],
+      "tags": [
+        "comment"
+      ]
+    },
+    {
+      "name": "comment-minus",
+      "categories": [],
+      "tags": [
+        "comment",
+        "minus"
+      ]
+    },
+    {
+      "name": "comment-quotes",
+      "categories": [],
+      "tags": [
+        "comment",
+        "quotes"
+      ]
+    },
+    {
+      "name": "comment-video",
+      "categories": [],
+      "tags": [
+        "comment",
+        "video"
+      ]
+    },
+    {
+      "name": "comments",
+      "categories": [],
+      "tags": [
+        "comments"
+      ]
+    },
+    {
+      "name": "compass",
+      "categories": [],
+      "tags": [
+        "compass"
+      ]
+    },
+    {
+      "name": "contrast",
+      "categories": [],
+      "tags": [
+        "contrast"
+      ]
+    },
+    {
+      "name": "credit-card",
+      "categories": [],
+      "tags": [
+        "credit",
+        "card"
+      ]
+    },
+    {
+      "name": "crop",
+      "categories": [],
+      "tags": [
+        "crop"
+      ]
+    },
+    {
+      "name": "crown",
+      "categories": [],
+      "tags": [
+        "crown"
+      ]
+    },
+    {
+      "name": "css3",
+      "categories": [],
+      "tags": [
+        "css3"
+      ]
+    },
+    {
+      "name": "database",
+      "categories": [],
+      "tags": [
+        "database"
+      ]
+    },
+    {
+      "name": "die-five",
+      "categories": [],
+      "tags": [
+        "die",
+        "five"
+      ]
+    },
+    {
+      "name": "die-four",
+      "categories": [],
+      "tags": [
+        "die",
+        "four"
+      ]
+    },
+    {
+      "name": "die-one",
+      "categories": [],
+      "tags": [
+        "die",
+        "one"
+      ]
+    },
+    {
+      "name": "die-six",
+      "categories": [],
+      "tags": [
+        "die",
+        "six"
+      ]
+    },
+    {
+      "name": "die-three",
+      "categories": [],
+      "tags": [
+        "die",
+        "three"
+      ]
+    },
+    {
+      "name": "die-two",
+      "categories": [],
+      "tags": [
+        "die",
+        "two"
+      ]
+    },
+    {
+      "name": "dislike",
+      "categories": [],
+      "tags": [
+        "dislike"
+      ]
+    },
+    {
+      "name": "dollar",
+      "categories": [],
+      "tags": [
+        "dollar"
+      ]
+    },
+    {
+      "name": "dollar-bill",
+      "categories": [],
+      "tags": [
+        "dollar",
+        "bill"
+      ]
+    },
+    {
+      "name": "download",
+      "categories": [],
+      "tags": [
+        "download"
+      ]
+    },
+    {
+      "name": "eject",
+      "categories": [],
+      "tags": [
+        "eject"
+      ]
+    },
+    {
+      "name": "elevator",
+      "categories": [],
+      "tags": [
+        "elevator"
+      ]
+    },
+    {
+      "name": "euro",
+      "categories": [],
+      "tags": [
+        "euro"
+      ]
+    },
+    {
+      "name": "eye",
+      "categories": [],
+      "tags": [
+        "eye"
+      ]
+    },
+    {
+      "name": "fast-forward",
+      "categories": [],
+      "tags": [
+        "fast",
+        "forward"
+      ]
+    },
+    {
+      "name": "female",
+      "categories": [],
+      "tags": [
+        "female"
+      ]
+    },
+    {
+      "name": "female-symbol",
+      "categories": [],
+      "tags": [
+        "female",
+        "symbol"
+      ]
+    },
+    {
+      "name": "filter",
+      "categories": [],
+      "tags": [
+        "filter"
+      ]
+    },
+    {
+      "name": "first-aid",
+      "categories": [],
+      "tags": [
+        "first",
+        "aid"
+      ]
+    },
+    {
+      "name": "flag",
+      "categories": [],
+      "tags": [
+        "flag"
+      ]
+    },
+    {
+      "name": "folder",
+      "categories": [],
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "folder-add",
+      "categories": [],
+      "tags": [
+        "folder",
+        "add"
+      ]
+    },
+    {
+      "name": "folder-lock",
+      "categories": [],
+      "tags": [
+        "folder",
+        "lock"
+      ]
+    },
+    {
+      "name": "foot",
+      "categories": [],
+      "tags": [
+        "foot"
+      ]
+    },
+    {
+      "name": "foundation",
+      "categories": [],
+      "tags": [
+        "foundation"
+      ]
+    },
+    {
+      "name": "graph-bar",
+      "categories": [],
+      "tags": [
+        "graph",
+        "bar"
+      ]
+    },
+    {
+      "name": "graph-horizontal",
+      "categories": [],
+      "tags": [
+        "graph",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "graph-pie",
+      "categories": [],
+      "tags": [
+        "graph",
+        "pie"
+      ]
+    },
+    {
+      "name": "graph-trend",
+      "categories": [],
+      "tags": [
+        "graph",
+        "trend"
+      ]
+    },
+    {
+      "name": "guide-dog",
+      "categories": [],
+      "tags": [
+        "guide",
+        "dog"
+      ]
+    },
+    {
+      "name": "hearing-aid",
+      "categories": [],
+      "tags": [
+        "hearing",
+        "aid"
+      ]
+    },
+    {
+      "name": "heart",
+      "categories": [],
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "name": "home",
+      "categories": [],
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "name": "html5",
+      "categories": [],
+      "tags": [
+        "html5"
+      ]
+    },
+    {
+      "name": "indent-less",
+      "categories": [],
+      "tags": [
+        "indent",
+        "less"
+      ]
+    },
+    {
+      "name": "indent-more",
+      "categories": [],
+      "tags": [
+        "indent",
+        "more"
+      ]
+    },
+    {
+      "name": "info",
+      "categories": [],
+      "tags": [
+        "info"
+      ]
+    },
+    {
+      "name": "italic",
+      "categories": [],
+      "tags": [
+        "italic"
+      ]
+    },
+    {
+      "name": "key",
+      "categories": [],
+      "tags": [
+        "key"
+      ]
+    },
+    {
+      "name": "laptop",
+      "categories": [],
+      "tags": [
+        "laptop"
+      ]
+    },
+    {
+      "name": "layout",
+      "categories": [],
+      "tags": [
+        "layout"
+      ]
+    },
+    {
+      "name": "lightbulb",
+      "categories": [],
+      "tags": [
+        "lightbulb"
+      ]
+    },
+    {
+      "name": "like",
+      "categories": [],
+      "tags": [
+        "like"
+      ]
+    },
+    {
+      "name": "link",
+      "categories": [],
+      "tags": [
+        "link"
+      ]
+    },
+    {
+      "name": "list",
+      "categories": [],
+      "tags": [
+        "list"
+      ]
+    },
+    {
+      "name": "list-bullet",
+      "categories": [],
+      "tags": [
+        "list",
+        "bullet"
+      ]
+    },
+    {
+      "name": "list-number",
+      "categories": [],
+      "tags": [
+        "list",
+        "number"
+      ]
+    },
+    {
+      "name": "list-thumbnails",
+      "categories": [],
+      "tags": [
+        "list",
+        "thumbnails"
+      ]
+    },
+    {
+      "name": "lock",
+      "categories": [],
+      "tags": [
+        "lock"
+      ]
+    },
+    {
+      "name": "loop",
+      "categories": [],
+      "tags": [
+        "loop"
+      ]
+    },
+    {
+      "name": "magnifying-glass",
+      "categories": [],
+      "tags": [
+        "magnifying",
+        "glass"
+      ]
+    },
+    {
+      "name": "mail",
+      "categories": [],
+      "tags": [
+        "mail"
+      ]
+    },
+    {
+      "name": "male",
+      "categories": [],
+      "tags": [
+        "male"
+      ]
+    },
+    {
+      "name": "male-female",
+      "categories": [],
+      "tags": [
+        "male",
+        "female"
+      ]
+    },
+    {
+      "name": "male-symbol",
+      "categories": [],
+      "tags": [
+        "male",
+        "symbol"
+      ]
+    },
+    {
+      "name": "map",
+      "categories": [],
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "name": "marker",
+      "categories": [],
+      "tags": [
+        "marker"
+      ]
+    },
+    {
+      "name": "megaphone",
+      "categories": [],
+      "tags": [
+        "megaphone"
+      ]
+    },
+    {
+      "name": "microphone",
+      "categories": [],
+      "tags": [
+        "microphone"
+      ]
+    },
+    {
+      "name": "minus",
+      "categories": [],
+      "tags": [
+        "minus"
+      ]
+    },
+    {
+      "name": "minus-circle",
+      "categories": [],
+      "tags": [
+        "minus",
+        "circle"
+      ]
+    },
+    {
+      "name": "mobile",
+      "categories": [],
+      "tags": [
+        "mobile"
+      ]
+    },
+    {
+      "name": "mobile-signal",
+      "categories": [],
+      "tags": [
+        "mobile",
+        "signal"
+      ]
+    },
+    {
+      "name": "monitor",
+      "categories": [],
+      "tags": [
+        "monitor"
+      ]
+    },
+    {
+      "name": "mountains",
+      "categories": [],
+      "tags": [
+        "mountains"
+      ]
+    },
+    {
+      "name": "music",
+      "categories": [],
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "name": "next",
+      "categories": [],
+      "tags": [
+        "next"
+      ]
+    },
+    {
+      "name": "no-dogs",
+      "categories": [],
+      "tags": [
+        "no",
+        "dogs"
+      ]
+    },
+    {
+      "name": "no-smoking",
+      "categories": [],
+      "tags": [
+        "no",
+        "smoking"
+      ]
+    },
+    {
+      "name": "page",
+      "categories": [],
+      "tags": [
+        "page"
+      ]
+    },
+    {
+      "name": "page-add",
+      "categories": [],
+      "tags": [
+        "page",
+        "add"
+      ]
+    },
+    {
+      "name": "page-copy",
+      "categories": [],
+      "tags": [
+        "page",
+        "copy"
+      ]
+    },
+    {
+      "name": "page-csv",
+      "categories": [],
+      "tags": [
+        "page",
+        "csv"
+      ]
+    },
+    {
+      "name": "page-delete",
+      "categories": [],
+      "tags": [
+        "page",
+        "delete"
+      ]
+    },
+    {
+      "name": "page-doc",
+      "categories": [],
+      "tags": [
+        "page",
+        "doc"
+      ]
+    },
+    {
+      "name": "page-edit",
+      "categories": [],
+      "tags": [
+        "page",
+        "edit"
+      ]
+    },
+    {
+      "name": "page-export",
+      "categories": [],
+      "tags": [
+        "page",
+        "export"
+      ]
+    },
+    {
+      "name": "page-export-csv",
+      "categories": [],
+      "tags": [
+        "page",
+        "export",
+        "csv"
+      ]
+    },
+    {
+      "name": "page-export-doc",
+      "categories": [],
+      "tags": [
+        "page",
+        "export",
+        "doc"
+      ]
+    },
+    {
+      "name": "page-export-pdf",
+      "categories": [],
+      "tags": [
+        "page",
+        "export",
+        "pdf"
+      ]
+    },
+    {
+      "name": "page-filled",
+      "categories": [],
+      "tags": [
+        "page",
+        "filled"
+      ]
+    },
+    {
+      "name": "page-multiple",
+      "categories": [],
+      "tags": [
+        "page",
+        "multiple"
+      ]
+    },
+    {
+      "name": "page-pdf",
+      "categories": [],
+      "tags": [
+        "page",
+        "pdf"
+      ]
+    },
+    {
+      "name": "page-remove",
+      "categories": [],
+      "tags": [
+        "page",
+        "remove"
+      ]
+    },
+    {
+      "name": "page-search",
+      "categories": [],
+      "tags": [
+        "page",
+        "search"
+      ]
+    },
+    {
+      "name": "paint-bucket",
+      "categories": [],
+      "tags": [
+        "paint",
+        "bucket"
+      ]
+    },
+    {
+      "name": "paperclip",
+      "categories": [],
+      "tags": [
+        "paperclip"
+      ]
+    },
+    {
+      "name": "pause",
+      "categories": [],
+      "tags": [
+        "pause"
+      ]
+    },
+    {
+      "name": "paw",
+      "categories": [],
+      "tags": [
+        "paw"
+      ]
+    },
+    {
+      "name": "paypal",
+      "categories": [],
+      "tags": [
+        "paypal"
+      ]
+    },
+    {
+      "name": "pencil",
+      "categories": [],
+      "tags": [
+        "pencil"
+      ]
+    },
+    {
+      "name": "photo",
+      "categories": [],
+      "tags": [
+        "photo"
+      ]
+    },
+    {
+      "name": "play",
+      "categories": [],
+      "tags": [
+        "play"
+      ]
+    },
+    {
+      "name": "play-circle",
+      "categories": [],
+      "tags": [
+        "play",
+        "circle"
+      ]
+    },
+    {
+      "name": "play-video",
+      "categories": [],
+      "tags": [
+        "play",
+        "video"
+      ]
+    },
+    {
+      "name": "plus",
+      "categories": [],
+      "tags": [
+        "plus"
+      ]
+    },
+    {
+      "name": "pound",
+      "categories": [],
+      "tags": [
+        "pound"
+      ]
+    },
+    {
+      "name": "power",
+      "categories": [],
+      "tags": [
+        "power"
+      ]
+    },
+    {
+      "name": "previous",
+      "categories": [],
+      "tags": [
+        "previous"
+      ]
+    },
+    {
+      "name": "price-tag",
+      "categories": [],
+      "tags": [
+        "price",
+        "tag"
+      ]
+    },
+    {
+      "name": "pricetag-multiple",
+      "categories": [],
+      "tags": [
+        "pricetag",
+        "multiple"
+      ]
+    },
+    {
+      "name": "print",
+      "categories": [],
+      "tags": [
+        "print"
+      ]
+    },
+    {
+      "name": "prohibited",
+      "categories": [],
+      "tags": [
+        "prohibited"
+      ]
+    },
+    {
+      "name": "projection-screen",
+      "categories": [],
+      "tags": [
+        "projection",
+        "screen"
+      ]
+    },
+    {
+      "name": "puzzle",
+      "categories": [],
+      "tags": [
+        "puzzle"
+      ]
+    },
+    {
+      "name": "quote",
+      "categories": [],
+      "tags": [
+        "quote"
+      ]
+    },
+    {
+      "name": "record",
+      "categories": [],
+      "tags": [
+        "record"
+      ]
+    },
+    {
+      "name": "refresh",
+      "categories": [],
+      "tags": [
+        "refresh"
+      ]
+    },
+    {
+      "name": "results",
+      "categories": [],
+      "tags": [
+        "results"
+      ]
+    },
+    {
+      "name": "results-demographics",
+      "categories": [],
+      "tags": [
+        "results",
+        "demographics"
+      ]
+    },
+    {
+      "name": "rewind",
+      "categories": [],
+      "tags": [
+        "rewind"
+      ]
+    },
+    {
+      "name": "rewind-ten",
+      "categories": [],
+      "tags": [
+        "rewind",
+        "ten"
+      ]
+    },
+    {
+      "name": "rss",
+      "categories": [],
+      "tags": [
+        "rss"
+      ]
+    },
+    {
+      "name": "safety-cone",
+      "categories": [],
+      "tags": [
+        "safety",
+        "cone"
+      ]
+    },
+    {
+      "name": "save",
+      "categories": [],
+      "tags": [
+        "save"
+      ]
+    },
+    {
+      "name": "share",
+      "categories": [],
+      "tags": [
+        "share"
+      ]
+    },
+    {
+      "name": "sheriff-badge",
+      "categories": [],
+      "tags": [
+        "sheriff",
+        "badge"
+      ]
+    },
+    {
+      "name": "shield",
+      "categories": [],
+      "tags": [
+        "shield"
+      ]
+    },
+    {
+      "name": "shopping-bag",
+      "categories": [],
+      "tags": [
+        "shopping",
+        "bag"
+      ]
+    },
+    {
+      "name": "shopping-cart",
+      "categories": [],
+      "tags": [
+        "shopping",
+        "cart"
+      ]
+    },
+    {
+      "name": "shuffle",
+      "categories": [],
+      "tags": [
+        "shuffle"
+      ]
+    },
+    {
+      "name": "skull",
+      "categories": [],
+      "tags": [
+        "skull"
+      ]
+    },
+    {
+      "name": "social-500px",
+      "categories": [],
+      "tags": [
+        "social",
+        "500px"
+      ]
+    },
+    {
+      "name": "social-adobe",
+      "categories": [],
+      "tags": [
+        "social",
+        "adobe"
+      ]
+    },
+    {
+      "name": "social-amazon",
+      "categories": [],
+      "tags": [
+        "social",
+        "amazon"
+      ]
+    },
+    {
+      "name": "social-android",
+      "categories": [],
+      "tags": [
+        "social",
+        "android"
+      ]
+    },
+    {
+      "name": "social-apple",
+      "categories": [],
+      "tags": [
+        "social",
+        "apple"
+      ]
+    },
+    {
+      "name": "social-behance",
+      "categories": [],
+      "tags": [
+        "social",
+        "behance"
+      ]
+    },
+    {
+      "name": "social-bing",
+      "categories": [],
+      "tags": [
+        "social",
+        "bing"
+      ]
+    },
+    {
+      "name": "social-blogger",
+      "categories": [],
+      "tags": [
+        "social",
+        "blogger"
+      ]
+    },
+    {
+      "name": "social-delicious",
+      "categories": [],
+      "tags": [
+        "social",
+        "delicious"
+      ]
+    },
+    {
+      "name": "social-designer-news",
+      "categories": [],
+      "tags": [
+        "social",
+        "designer",
+        "news"
+      ]
+    },
+    {
+      "name": "social-deviant-art",
+      "categories": [],
+      "tags": [
+        "social",
+        "deviant",
+        "art"
+      ]
+    },
+    {
+      "name": "social-digg",
+      "categories": [],
+      "tags": [
+        "social",
+        "digg"
+      ]
+    },
+    {
+      "name": "social-dribbble",
+      "categories": [],
+      "tags": [
+        "social",
+        "dribbble"
+      ]
+    },
+    {
+      "name": "social-drive",
+      "categories": [],
+      "tags": [
+        "social",
+        "drive"
+      ]
+    },
+    {
+      "name": "social-dropbox",
+      "categories": [],
+      "tags": [
+        "social",
+        "dropbox"
+      ]
+    },
+    {
+      "name": "social-evernote",
+      "categories": [],
+      "tags": [
+        "social",
+        "evernote"
+      ]
+    },
+    {
+      "name": "social-facebook",
+      "categories": [],
+      "tags": [
+        "social",
+        "facebook"
+      ]
+    },
+    {
+      "name": "social-flickr",
+      "categories": [],
+      "tags": [
+        "social",
+        "flickr"
+      ]
+    },
+    {
+      "name": "social-forrst",
+      "categories": [],
+      "tags": [
+        "social",
+        "forrst"
+      ]
+    },
+    {
+      "name": "social-foursquare",
+      "categories": [],
+      "tags": [
+        "social",
+        "foursquare"
+      ]
+    },
+    {
+      "name": "social-game-center",
+      "categories": [],
+      "tags": [
+        "social",
+        "game",
+        "center"
+      ]
+    },
+    {
+      "name": "social-github",
+      "categories": [],
+      "tags": [
+        "social",
+        "github"
+      ]
+    },
+    {
+      "name": "social-google-plus",
+      "categories": [],
+      "tags": [
+        "social",
+        "google",
+        "plus"
+      ]
+    },
+    {
+      "name": "social-hacker-news",
+      "categories": [],
+      "tags": [
+        "social",
+        "hacker",
+        "news"
+      ]
+    },
+    {
+      "name": "social-hi5",
+      "categories": [],
+      "tags": [
+        "social",
+        "hi5"
+      ]
+    },
+    {
+      "name": "social-instagram",
+      "categories": [],
+      "tags": [
+        "social",
+        "instagram"
+      ]
+    },
+    {
+      "name": "social-joomla",
+      "categories": [],
+      "tags": [
+        "social",
+        "joomla"
+      ]
+    },
+    {
+      "name": "social-lastfm",
+      "categories": [],
+      "tags": [
+        "social",
+        "lastfm"
+      ]
+    },
+    {
+      "name": "social-linkedin",
+      "categories": [],
+      "tags": [
+        "social",
+        "linkedin"
+      ]
+    },
+    {
+      "name": "social-medium",
+      "categories": [],
+      "tags": [
+        "social",
+        "medium"
+      ]
+    },
+    {
+      "name": "social-myspace",
+      "categories": [],
+      "tags": [
+        "social",
+        "myspace"
+      ]
+    },
+    {
+      "name": "social-orkut",
+      "categories": [],
+      "tags": [
+        "social",
+        "orkut"
+      ]
+    },
+    {
+      "name": "social-path",
+      "categories": [],
+      "tags": [
+        "social",
+        "path"
+      ]
+    },
+    {
+      "name": "social-picasa",
+      "categories": [],
+      "tags": [
+        "social",
+        "picasa"
+      ]
+    },
+    {
+      "name": "social-pinterest",
+      "categories": [],
+      "tags": [
+        "social",
+        "pinterest"
+      ]
+    },
+    {
+      "name": "social-rdio",
+      "categories": [],
+      "tags": [
+        "social",
+        "rdio"
+      ]
+    },
+    {
+      "name": "social-reddit",
+      "categories": [],
+      "tags": [
+        "social",
+        "reddit"
+      ]
+    },
+    {
+      "name": "social-skillshare",
+      "categories": [],
+      "tags": [
+        "social",
+        "skillshare"
+      ]
+    },
+    {
+      "name": "social-skype",
+      "categories": [],
+      "tags": [
+        "social",
+        "skype"
+      ]
+    },
+    {
+      "name": "social-smashing-mag",
+      "categories": [],
+      "tags": [
+        "social",
+        "smashing",
+        "mag"
+      ]
+    },
+    {
+      "name": "social-snapchat",
+      "categories": [],
+      "tags": [
+        "social",
+        "snapchat"
+      ]
+    },
+    {
+      "name": "social-spotify",
+      "categories": [],
+      "tags": [
+        "social",
+        "spotify"
+      ]
+    },
+    {
+      "name": "social-squidoo",
+      "categories": [],
+      "tags": [
+        "social",
+        "squidoo"
+      ]
+    },
+    {
+      "name": "social-stack-overflow",
+      "categories": [],
+      "tags": [
+        "social",
+        "stack",
+        "overflow"
+      ]
+    },
+    {
+      "name": "social-steam",
+      "categories": [],
+      "tags": [
+        "social",
+        "steam"
+      ]
+    },
+    {
+      "name": "social-stumbleupon",
+      "categories": [],
+      "tags": [
+        "social",
+        "stumbleupon"
+      ]
+    },
+    {
+      "name": "social-treehouse",
+      "categories": [],
+      "tags": [
+        "social",
+        "treehouse"
+      ]
+    },
+    {
+      "name": "social-tumblr",
+      "categories": [],
+      "tags": [
+        "social",
+        "tumblr"
+      ]
+    },
+    {
+      "name": "social-twitter",
+      "categories": [],
+      "tags": [
+        "social",
+        "twitter"
+      ]
+    },
+    {
+      "name": "social-vimeo",
+      "categories": [],
+      "tags": [
+        "social",
+        "vimeo"
+      ]
+    },
+    {
+      "name": "social-windows",
+      "categories": [],
+      "tags": [
+        "social",
+        "windows"
+      ]
+    },
+    {
+      "name": "social-xbox",
+      "categories": [],
+      "tags": [
+        "social",
+        "xbox"
+      ]
+    },
+    {
+      "name": "social-yahoo",
+      "categories": [],
+      "tags": [
+        "social",
+        "yahoo"
+      ]
+    },
+    {
+      "name": "social-yelp",
+      "categories": [],
+      "tags": [
+        "social",
+        "yelp"
+      ]
+    },
+    {
+      "name": "social-youtube",
+      "categories": [],
+      "tags": [
+        "social",
+        "youtube"
+      ]
+    },
+    {
+      "name": "social-zerply",
+      "categories": [],
+      "tags": [
+        "social",
+        "zerply"
+      ]
+    },
+    {
+      "name": "social-zurb",
+      "categories": [],
+      "tags": [
+        "social",
+        "zurb"
+      ]
+    },
+    {
+      "name": "sound",
+      "categories": [],
+      "tags": [
+        "sound"
+      ]
+    },
+    {
+      "name": "star",
+      "categories": [],
+      "tags": [
+        "star"
+      ]
+    },
+    {
+      "name": "stop",
+      "categories": [],
+      "tags": [
+        "stop"
+      ]
+    },
+    {
+      "name": "strikethrough",
+      "categories": [],
+      "tags": [
+        "strikethrough"
+      ]
+    },
+    {
+      "name": "subscript",
+      "categories": [],
+      "tags": [
+        "subscript"
+      ]
+    },
+    {
+      "name": "superscript",
+      "categories": [],
+      "tags": [
+        "superscript"
+      ]
+    },
+    {
+      "name": "tablet-landscape",
+      "categories": [],
+      "tags": [
+        "tablet",
+        "landscape"
+      ]
+    },
+    {
+      "name": "tablet-portrait",
+      "categories": [],
+      "tags": [
+        "tablet",
+        "portrait"
+      ]
+    },
+    {
+      "name": "target",
+      "categories": [],
+      "tags": [
+        "target"
+      ]
+    },
+    {
+      "name": "target-two",
+      "categories": [],
+      "tags": [
+        "target",
+        "two"
+      ]
+    },
+    {
+      "name": "telephone",
+      "categories": [],
+      "tags": [
+        "telephone"
+      ]
+    },
+    {
+      "name": "telephone-accessible",
+      "categories": [],
+      "tags": [
+        "telephone",
+        "accessible"
+      ]
+    },
+    {
+      "name": "text-color",
+      "categories": [],
+      "tags": [
+        "text",
+        "color"
+      ]
+    },
+    {
+      "name": "thumbnails",
+      "categories": [],
+      "tags": [
+        "thumbnails"
+      ]
+    },
+    {
+      "name": "ticket",
+      "categories": [],
+      "tags": [
+        "ticket"
+      ]
+    },
+    {
+      "name": "torso",
+      "categories": [],
+      "tags": [
+        "torso"
+      ]
+    },
+    {
+      "name": "torso-business",
+      "categories": [],
+      "tags": [
+        "torso",
+        "business"
+      ]
+    },
+    {
+      "name": "torso-female",
+      "categories": [],
+      "tags": [
+        "torso",
+        "female"
+      ]
+    },
+    {
+      "name": "torsos",
+      "categories": [],
+      "tags": [
+        "torsos"
+      ]
+    },
+    {
+      "name": "torsos-all",
+      "categories": [],
+      "tags": [
+        "torsos",
+        "all"
+      ]
+    },
+    {
+      "name": "torsos-all-female",
+      "categories": [],
+      "tags": [
+        "torsos",
+        "all",
+        "female"
+      ]
+    },
+    {
+      "name": "torsos-female-male",
+      "categories": [],
+      "tags": [
+        "torsos",
+        "female",
+        "male"
+      ]
+    },
+    {
+      "name": "torsos-male-female",
+      "categories": [],
+      "tags": [
+        "torsos",
+        "male",
+        "female"
+      ]
+    },
+    {
+      "name": "trash",
+      "categories": [],
+      "tags": [
+        "trash"
+      ]
+    },
+    {
+      "name": "trees",
+      "categories": [],
+      "tags": [
+        "trees"
+      ]
+    },
+    {
+      "name": "trophy",
+      "categories": [],
+      "tags": [
+        "trophy"
+      ]
+    },
+    {
+      "name": "underline",
+      "categories": [],
+      "tags": [
+        "underline"
+      ]
+    },
+    {
+      "name": "universal-access",
+      "categories": [],
+      "tags": [
+        "universal",
+        "access"
+      ]
+    },
+    {
+      "name": "unlink",
+      "categories": [],
+      "tags": [
+        "unlink"
+      ]
+    },
+    {
+      "name": "unlock",
+      "categories": [],
+      "tags": [
+        "unlock"
+      ]
+    },
+    {
+      "name": "upload",
+      "categories": [],
+      "tags": [
+        "upload"
+      ]
+    },
+    {
+      "name": "upload-cloud",
+      "categories": [],
+      "tags": [
+        "upload",
+        "cloud"
+      ]
+    },
+    {
+      "name": "usb",
+      "categories": [],
+      "tags": [
+        "usb"
+      ]
+    },
+    {
+      "name": "video",
+      "categories": [],
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "name": "volume",
+      "categories": [],
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-none",
+      "categories": [],
+      "tags": [
+        "volume",
+        "none"
+      ]
+    },
+    {
+      "name": "volume-strike",
+      "categories": [],
+      "tags": [
+        "volume",
+        "strike"
+      ]
+    },
+    {
+      "name": "web",
+      "categories": [],
+      "tags": [
+        "web"
+      ]
+    },
+    {
+      "name": "wheelchair",
+      "categories": [],
+      "tags": [
+        "wheelchair"
+      ]
+    },
+    {
+      "name": "widget",
+      "categories": [],
+      "tags": [
+        "widget"
+      ]
+    },
+    {
+      "name": "wrench",
+      "categories": [],
+      "tags": [
+        "wrench"
+      ]
+    },
+    {
+      "name": "x",
+      "categories": [],
+      "tags": [
+        "x"
+      ]
+    },
+    {
+      "name": "x-circle",
+      "categories": [],
+      "tags": [
+        "x",
+        "circle"
+      ]
+    },
+    {
+      "name": "yen",
+      "categories": [],
+      "tags": [
+        "yen"
+      ]
+    },
+    {
+      "name": "zoom-in",
+      "categories": [],
+      "tags": [
+        "zoom",
+        "in"
+      ]
+    },
+    {
+      "name": "zoom-out",
+      "categories": [],
+      "tags": [
+        "zoom",
+        "out"
+      ]
+    }
+  ]
+}

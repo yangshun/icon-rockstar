@@ -12,8 +12,7 @@ angular.module('iconRockstarApp')
     $scope.randomGradient = function () {
       var grad = _.sample($scope.gradientsList);
       $scope.gradientStart = grad.colour1;
-      $scope.gradientStop = grad.colour2; 
-      $scope.$apply();
+      $scope.gradientStop = grad.colour2;
     };
 
     $http.get('data/gradients.json')

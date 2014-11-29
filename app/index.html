@@ -20,13 +20,14 @@
     <link rel="stylesheet" href="styles/main.css">
     <!-- endbuild -->
   </head>
-  <body ng-app="iconRockstarApp" ng-controller="MainCtrl" style="opacity: 1; background-image: -webkit-linear-gradient(left, {{gradientStart}}, {{gradientStop}}); background-color: rgb(255, 255, 255);">
+  <body ng-app="iconRockstarApp" ng-controller="MainCtrl">
+    <div class="background" style="background-image: -webkit-linear-gradient(top, {{gradientStart}}, {{gradientStop}});"></div>
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container">
+      <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -40,11 +41,6 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <form class="navbar-form navbar-left" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-          </form>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#about">About</a></li>
             <li><a href="#">Contribute</a></li>
@@ -56,14 +52,13 @@
     </nav>
 
     <!-- Add your site or application content here -->
-    <div class="container">
+    <div class="container main-content">
       <div ng-view=""></div>
-
-      <div class="footer">
-        <p>Made by Yang Shun and Minqi.</p>
-      </div>
     </div>
 
+    <div class="footer">
+      <p>Made by Yang Shun and Minqi.</p>
+    </div>
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
      <script>

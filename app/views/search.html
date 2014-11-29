@@ -1,20 +1,26 @@
 <div class="row">
-  <div class="col-md-3">
-    <div class="panel panel-default">
-      <div class="panel-body">
-        <label>Icon Size:</label>
-        <input class="form-control" type="number" ng-model="fontSize">
-        <hr>
-        <label>Background</label>
-        <div>
-          <button class="btn btn-default btn-xs" ng-click="randomGradient()">Random Background</button> 
-        </div>
-      </div>
+  <div class="col-md-8 col-md-offset-2">   
+    <div class="form-group form-group-lg ir-search">
+      <input type="text" class="form-control ir-search-input" ng-model="queryString" placeholder="Search for keywords">
     </div>
   </div>
-  <div class="col-md-9 ir-icons-container" style="font-size: {{fontSize}}px;">
-    <div class="ir-icon-container" style="width: {{fontSize * 2}}px;" ng-repeat="icon in icons">
+</div>
+<div class="row">
+  <div class="col-md-10 col-md-offset-1 ir-icons-container" style="font-size: {{fontSize}}px;">
+    <div class="ir-icon-container" style="width: {{fontSize * 2}}px;" ng-repeat="icon in icons | filter: queryString">
       <i class="ir-icon fa fa-{{icon.name}}"></i>
+    </div>
+  </div>
+</div>
+
+<div class="panel panel-default ir-config">
+  <div class="panel-body">
+    <label>Icon Size:</label>
+    <input class="form-control" type="number" ng-model="fontSize">
+    <hr>
+    <label>Background</label>
+    <div>
+      <button class="btn btn-default btn-xs" ng-click="randomGradient()">Random Background</button> 
     </div>
   </div>
 </div>

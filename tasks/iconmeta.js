@@ -47,7 +47,6 @@ module.exports = function (grunt) {
       function createIconObject (name) {
         return {
           name: name,
-          categories: [],
           tags: name.split(delimiter)
         };
       }

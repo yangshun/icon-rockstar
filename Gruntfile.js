@@ -456,6 +456,11 @@ module.exports = function (grunt) {
     'build'
   ]);
 
+  grunt.registerTask('index', 'Create an inverted index of tags to icons from meta file', function (target) {
+    grunt.loadTasks('tasks');
+    return grunt.task.run(['invert']);
+  });
+
   grunt.registerTask('iconmeta', 'Create meta file for a given icon source', function (target) {
     grunt.loadTasks('tasks');
     return grunt.task.run(['iconmeta:' + (target ? target : 'all')]);

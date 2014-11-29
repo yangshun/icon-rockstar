@@ -30,6 +30,7 @@ Adding an Icon Source
 ==
 
 There are a few things that have to be done when adding a new icon source:
+
 1. Install the icon package via `bower`.
 2. Create a source manifest JSON file within `icons_sources_manifest`.
 3. Update `sources.json` with the file name of the new source manifest JSON file.
@@ -39,6 +40,7 @@ Updating an Icon Source
 ==
 
 Updating icon sources is quite similar to adding new icon sources.
+
 1. Update the corresponding icon package via `bower`.
 2. Look for the source's manifest file within `icons_sources_manifest` and update any values where necessary.
 3. Update `sources.json` with the file name of the new source manifest JSON file.

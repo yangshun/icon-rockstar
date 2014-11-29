@@ -1,9 +1,11 @@
 {
   "name": "Font Awesome",
   "slug": "font-awesome",
-  "version": "4.2.0",
   "homepage": "http://fortawesome.github.io/Font-Awesome/",
-  "main": "font-awesome/css/font-awesome.css",
-  "selectorRegex": "\\bfa-([A-Z0-9_-]+):before\\b",
-  "usage": "<i class=’fa fa-{name}’></i>"
+  "bower": {
+    "packageName": "font-awesome",
+    "main": "css/font-awesome.css"
+  },
+  "selectorRegex": "fa-([A-Z0-9_-]+):before",
+  "usage": "<i class=\"fa fa-{name}\"></i>"
 }

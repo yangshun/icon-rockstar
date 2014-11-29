@@ -1,0 +1,20 @@
+<div class="row">
+  <div class="col-md-3">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <label>Icon Size:</label>
+        <input class="form-control" type="number" ng-model="fontSize">
+        <hr>
+        <label>Background</label>
+        <div>
+          <button class="btn btn-default btn-xs" ng-click="randomGradient()">Random Background</button> 
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-9 ir-icons-container" style="font-size: {{fontSize}}px;">
+    <div class="ir-icon-container" style="width: {{fontSize * 1.5}}px;" ng-repeat="icon in icons">
+      <i class="ir-icon fa fa-{{icon.name}}"></i>
+    </div>
+  </div>
+</div>

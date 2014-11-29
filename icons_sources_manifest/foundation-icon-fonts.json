@@ -7,5 +7,6 @@
     "main": "foundation-icons.css"
   },
   "selectorRegex": "fi-([A-Z0-9_-]+):before",
+  "selectorDelimiter": "-",
   "usage": "<i class=\"fi-{name}\"></i>"
 }

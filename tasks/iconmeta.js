@@ -18,6 +18,7 @@ module.exports = function (grunt) {
       var sourceBower = grunt.file.readJSON(path.join(componentsPath, sourceManifest.bower.packageName, 'bower.json'));
       var file = grunt.file.read(path.join(componentsPath, sourceManifest.bower.packageName, sourceManifest.bower.main));
       var re = new RegExp(sourceManifest.selectorRegex, 'gi');
+      var delimiter = sourceManifest.selectorDelimiter;
 
       var allNames = [];
       var match;
@@ -26,8 +27,19 @@ module.exports = function (grunt) {
       }
       allNames = _.uniq(allNames.sort(), true);
       
-      var metaFilePath = path.join(metaPath, source + '-meta.json');
-      if (grunt.file.exists(metaFilePath)) {
+      var metaFileName = source + '-meta.json';
+      var metaFilePath = path.join(metaPath, metaFileName);
+      var metaFileExists = grunt.file.exists(metaFilePath);
+
+      function createIconObject (name) {
+        return {
+          name: name,
+          categories: [],
+          tags: name.split(delimiter)
+        };
+      }
+
+      if (metaFileExists) {
         var metaFile = grunt.file.readJSON(metaFilePath);
         var existingIconLookup = {};
         _.each(metaFile.icons, function (item) {
@@ -40,20 +52,12 @@ module.exports = function (grunt) {
           if (existingIconLookup[name]) {
             iconsMetaList.push(existingIconLookup[name]);
           } else {
-            iconsMetaList.push( {
-              name: name,
-              categories: [],
-              tags: []
-            });
+            iconsMetaList.push(createIconObject(name));
           }
         });
       } else {
         var iconsMetaList = _.map(allNames, function (name) {
-          return {
-            name: name,
-            categories: [],
-            tags: []
-          };
+          return createIconObject(name);
         });
       }
 
@@ -70,6 +74,7 @@ module.exports = function (grunt) {
         metaFilePath,
         JSON.stringify(iconsData, null, 2)
       );
+      grunt.log.writeln(metaFileName, metaFileExists ? 'updated.' : 'created.');
     });
   });
 };

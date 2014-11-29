@@ -7,5 +7,6 @@
     "main": "css/font-awesome.css"
   },
   "selectorRegex": "fa-([A-Z0-9_-]+):before",
+  "selectorDelimiter": "-",
   "usage": "<i class=\"fa fa-{name}\"></i>"
 }

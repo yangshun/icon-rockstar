@@ -1,0 +1,12 @@
+{
+  "name": "icon-rockstar",
+  "version": "0.0.0",
+  "sources": [
+    "font-awesome",
+    "open-iconic",
+    "foundation-icon-fonts"
+  ],
+  "sourcesPath": "icons_sources_manifest",
+  "metaPath": "icons_meta",
+  "componentsPath": "bower_components"
+}

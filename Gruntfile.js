@@ -21,11 +21,20 @@ module.exports = function (grunt) {
     dist: 'dist'
   };
 
+  var sourcesConfig = require('./sources.json');
+  var iconConfig = {
+    source: sourcesConfig.sourcesPath || 'icons_sources_manifest',
+    meta: sourcesConfig.metaPath || 'icons_meta',
+    components: sourcesConfig.componentsPath || 'bower_components',
+    sourceList: sourcesConfig.sources
+  };
+
   // Define the configuration for all the tasks
   grunt.initConfig({
 
     // Project settings
     yeoman: appConfig,
+    icons: iconConfig,
 
     // Watches files for changes and runs tasks based on the changed files
     watch: {
@@ -384,9 +393,12 @@ module.exports = function (grunt) {
         configFile: 'test/karma.conf.js',
         singleRun: true
       }
+    },
+
+    iconmeta: {
+      options: iconConfig
     }
   });
-
 
   grunt.registerTask('serve', 'Compile then start a connect web server', function (target) {
     if (target === 'dist') {
@@ -438,4 +450,13 @@ module.exports = function (grunt) {
     'test',
     'build'
   ]);
+
+  grunt.registerTask('rockstar', 'Compile then start a connect web server', function (target) {
+    grunt.loadTasks('tasks');
+    if (target) {
+      return grunt.task.run(['iconmeta:' + target]);
+    } else {
+      return grunt.task.run(['iconmeta:all']);
+    }
+  });
 };

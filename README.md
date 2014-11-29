@@ -34,7 +34,7 @@ There are a few things that have to be done when adding a new icon source:
 1. Install the icon package via `bower`.
 2. Create a source manifest JSON file within `icons_sources_manifest`.
 3. Update `sources.json` with the file name of the new source manifest JSON file.
-4. Run `bower rockstar:<new_source>`.
+4. Run `grunt rockstar:<new_source>`.
 
 Updating an Icon Source
 ==
@@ -44,7 +44,7 @@ Updating icon sources is quite similar to adding new icon sources.
 1. Update the corresponding icon package via `bower`.
 2. Look for the source's manifest file within `icons_sources_manifest` and update any values where necessary.
 3. Update `sources.json` with the file name of the new source manifest JSON file.
-4. Run `bower rockstar:<source>`.
+4. Run `grunt rockstar:<source>`.
 5. The source's meta JSON file will be updated with the new icons added, preserving already existing icon names.
 
 License

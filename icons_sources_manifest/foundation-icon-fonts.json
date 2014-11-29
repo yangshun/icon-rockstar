@@ -1,0 +1,9 @@
+{
+  "name": "Foundation Icon Fonts",
+  "slug": "foundation-icon-fonts",
+  "version": "3.0",
+  "homepage": "http://zurb.com/playground/foundation-icon-fonts-3",
+  "main": "foundation-icon-fonts/foundation-icons.css",
+  "selectorRegex": "\\bfi-[A-Z0-9_-]+:before\\b",
+  "usage": "<i class=\"fi-{name}\"></i>"
+}

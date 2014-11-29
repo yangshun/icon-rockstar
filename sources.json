@@ -4,7 +4,8 @@
   "sources": [
     "font-awesome",
     "open-iconic",
-    "foundation-icon-fonts"
+    "foundation-icon-fonts",
+    "typicons"
   ],
   "sourcesPath": "icons_sources_manifest",
   "metaPath": "icons_meta",

@@ -1,0 +1,12 @@
+{
+  "name": "Typicons",
+  "slug": "typicons",
+  "homepage": "https://github.com/stephenhutchings/typicons.font/",
+  "bower": {
+    "packageName": "typicons",
+    "main": "src/font/typicons.css"
+  },
+  "selectorRegex": "typcn-([A-Z0-9_-]+):before",
+  "selectorDelimiter": "-",
+  "usage": "<span class=\"typcn typcn-{name}\"><span>"
+}

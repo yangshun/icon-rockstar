@@ -1,0 +1,2672 @@
+{
+  "name": "Typicons",
+  "slug": "typicons",
+  "homepage": "https://github.com/stephenhutchings/typicons.font/",
+  "usage": "<span class=\"typcn typcn-{name}\"><span>",
+  "version": "2.0.6",
+  "icons": [
+    {
+      "name": "adjust-brightness",
+      "categories": [],
+      "tags": [
+        "adjust",
+        "brightness"
+      ]
+    },
+    {
+      "name": "adjust-contrast",
+      "categories": [],
+      "tags": [
+        "adjust",
+        "contrast"
+      ]
+    },
+    {
+      "name": "anchor",
+      "categories": [],
+      "tags": [
+        "anchor"
+      ]
+    },
+    {
+      "name": "anchor-outline",
+      "categories": [],
+      "tags": [
+        "anchor",
+        "outline"
+      ]
+    },
+    {
+      "name": "archive",
+      "categories": [],
+      "tags": [
+        "archive"
+      ]
+    },
+    {
+      "name": "arrow-back",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "back"
+      ]
+    },
+    {
+      "name": "arrow-back-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "back",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-down",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-down-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "down",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-down-thick",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "down",
+        "thick"
+      ]
+    },
+    {
+      "name": "arrow-forward",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "forward"
+      ]
+    },
+    {
+      "name": "arrow-forward-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "forward",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-left",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "left"
+      ]
+    },
+    {
+      "name": "arrow-left-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "left",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-left-thick",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "left",
+        "thick"
+      ]
+    },
+    {
+      "name": "arrow-loop",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "loop"
+      ]
+    },
+    {
+      "name": "arrow-loop-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "loop",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-maximise",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "maximise"
+      ]
+    },
+    {
+      "name": "arrow-maximise-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "maximise",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-minimise",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "minimise"
+      ]
+    },
+    {
+      "name": "arrow-minimise-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "minimise",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-move",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "move"
+      ]
+    },
+    {
+      "name": "arrow-move-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "move",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-repeat",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "repeat"
+      ]
+    },
+    {
+      "name": "arrow-repeat-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "repeat",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-right",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-right-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "right",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-right-thick",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "right",
+        "thick"
+      ]
+    },
+    {
+      "name": "arrow-shuffle",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "shuffle"
+      ]
+    },
+    {
+      "name": "arrow-sorted-down",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "sorted",
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-sorted-up",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "sorted",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-sync",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "sync"
+      ]
+    },
+    {
+      "name": "arrow-sync-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "sync",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-unsorted",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "unsorted"
+      ]
+    },
+    {
+      "name": "arrow-up",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-up-outline",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "up",
+        "outline"
+      ]
+    },
+    {
+      "name": "arrow-up-thick",
+      "categories": [],
+      "tags": [
+        "arrow",
+        "up",
+        "thick"
+      ]
+    },
+    {
+      "name": "at",
+      "categories": [],
+      "tags": [
+        "at"
+      ]
+    },
+    {
+      "name": "attachment",
+      "categories": [],
+      "tags": [
+        "attachment"
+      ]
+    },
+    {
+      "name": "attachment-outline",
+      "categories": [],
+      "tags": [
+        "attachment",
+        "outline"
+      ]
+    },
+    {
+      "name": "backspace",
+      "categories": [],
+      "tags": [
+        "backspace"
+      ]
+    },
+    {
+      "name": "backspace-outline",
+      "categories": [],
+      "tags": [
+        "backspace",
+        "outline"
+      ]
+    },
+    {
+      "name": "battery-charge",
+      "categories": [],
+      "tags": [
+        "battery",
+        "charge"
+      ]
+    },
+    {
+      "name": "battery-full",
+      "categories": [],
+      "tags": [
+        "battery",
+        "full"
+      ]
+    },
+    {
+      "name": "battery-high",
+      "categories": [],
+      "tags": [
+        "battery",
+        "high"
+      ]
+    },
+    {
+      "name": "battery-low",
+      "categories": [],
+      "tags": [
+        "battery",
+        "low"
+      ]
+    },
+    {
+      "name": "battery-mid",
+      "categories": [],
+      "tags": [
+        "battery",
+        "mid"
+      ]
+    },
+    {
+      "name": "beaker",
+      "categories": [],
+      "tags": [
+        "beaker"
+      ]
+    },
+    {
+      "name": "beer",
+      "categories": [],
+      "tags": [
+        "beer"
+      ]
+    },
+    {
+      "name": "bell",
+      "categories": [],
+      "tags": [
+        "bell"
+      ]
+    },
+    {
+      "name": "book",
+      "categories": [],
+      "tags": [
+        "book"
+      ]
+    },
+    {
+      "name": "bookmark",
+      "categories": [],
+      "tags": [
+        "bookmark"
+      ]
+    },
+    {
+      "name": "briefcase",
+      "categories": [],
+      "tags": [
+        "briefcase"
+      ]
+    },
+    {
+      "name": "brush",
+      "categories": [],
+      "tags": [
+        "brush"
+      ]
+    },
+    {
+      "name": "business-card",
+      "categories": [],
+      "tags": [
+        "business",
+        "card"
+      ]
+    },
+    {
+      "name": "calculator",
+      "categories": [],
+      "tags": [
+        "calculator"
+      ]
+    },
+    {
+      "name": "calendar",
+      "categories": [],
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "name": "calendar-outline",
+      "categories": [],
+      "tags": [
+        "calendar",
+        "outline"
+      ]
+    },
+    {
+      "name": "camera",
+      "categories": [],
+      "tags": [
+        "camera"
+      ]
+    },
+    {
+      "name": "camera-outline",
+      "categories": [],
+      "tags": [
+        "camera",
+        "outline"
+      ]
+    },
+    {
+      "name": "cancel",
+      "categories": [],
+      "tags": [
+        "cancel"
+      ]
+    },
+    {
+      "name": "cancel-outline",
+      "categories": [],
+      "tags": [
+        "cancel",
+        "outline"
+      ]
+    },
+    {
+      "name": "chart-area",
+      "categories": [],
+      "tags": [
+        "chart",
+        "area"
+      ]
+    },
+    {
+      "name": "chart-area-outline",
+      "categories": [],
+      "tags": [
+        "chart",
+        "area",
+        "outline"
+      ]
+    },
+    {
+      "name": "chart-bar",
+      "categories": [],
+      "tags": [
+        "chart",
+        "bar"
+      ]
+    },
+    {
+      "name": "chart-bar-outline",
+      "categories": [],
+      "tags": [
+        "chart",
+        "bar",
+        "outline"
+      ]
+    },
+    {
+      "name": "chart-line",
+      "categories": [],
+      "tags": [
+        "chart",
+        "line"
+      ]
+    },
+    {
+      "name": "chart-line-outline",
+      "categories": [],
+      "tags": [
+        "chart",
+        "line",
+        "outline"
+      ]
+    },
+    {
+      "name": "chart-pie",
+      "categories": [],
+      "tags": [
+        "chart",
+        "pie"
+      ]
+    },
+    {
+      "name": "chart-pie-outline",
+      "categories": [],
+      "tags": [
+        "chart",
+        "pie",
+        "outline"
+      ]
+    },
+    {
+      "name": "chevron-left",
+      "categories": [],
+      "tags": [
+        "chevron",
+        "left"
+      ]
+    },
+    {
+      "name": "chevron-left-outline",
+      "categories": [],
+      "tags": [
+        "chevron",
+        "left",
+        "outline"
+      ]
+    },
+    {
+      "name": "chevron-right",
+      "categories": [],
+      "tags": [
+        "chevron",
+        "right"
+      ]
+    },
+    {
+      "name": "chevron-right-outline",
+      "categories": [],
+      "tags": [
+        "chevron",
+        "right",
+        "outline"
+      ]
+    },
+    {
+      "name": "clipboard",
+      "categories": [],
+      "tags": [
+        "clipboard"
+      ]
+    },
+    {
+      "name": "cloud-storage",
+      "categories": [],
+      "tags": [
+        "cloud",
+        "storage"
+      ]
+    },
+    {
+      "name": "cloud-storage-outline",
+      "categories": [],
+      "tags": [
+        "cloud",
+        "storage",
+        "outline"
+      ]
+    },
+    {
+      "name": "code",
+      "categories": [],
+      "tags": [
+        "code"
+      ]
+    },
+    {
+      "name": "code-outline",
+      "categories": [],
+      "tags": [
+        "code",
+        "outline"
+      ]
+    },
+    {
+      "name": "coffee",
+      "categories": [],
+      "tags": [
+        "coffee"
+      ]
+    },
+    {
+      "name": "cog",
+      "categories": [],
+      "tags": [
+        "cog"
+      ]
+    },
+    {
+      "name": "cog-outline",
+      "categories": [],
+      "tags": [
+        "cog",
+        "outline"
+      ]
+    },
+    {
+      "name": "compass",
+      "categories": [],
+      "tags": [
+        "compass"
+      ]
+    },
+    {
+      "name": "contacts",
+      "categories": [],
+      "tags": [
+        "contacts"
+      ]
+    },
+    {
+      "name": "credit-card",
+      "categories": [],
+      "tags": [
+        "credit",
+        "card"
+      ]
+    },
+    {
+      "name": "css3",
+      "categories": [],
+      "tags": [
+        "css3"
+      ]
+    },
+    {
+      "name": "database",
+      "categories": [],
+      "tags": [
+        "database"
+      ]
+    },
+    {
+      "name": "delete",
+      "categories": [],
+      "tags": [
+        "delete"
+      ]
+    },
+    {
+      "name": "delete-outline",
+      "categories": [],
+      "tags": [
+        "delete",
+        "outline"
+      ]
+    },
+    {
+      "name": "device-desktop",
+      "categories": [],
+      "tags": [
+        "device",
+        "desktop"
+      ]
+    },
+    {
+      "name": "device-laptop",
+      "categories": [],
+      "tags": [
+        "device",
+        "laptop"
+      ]
+    },
+    {
+      "name": "device-phone",
+      "categories": [],
+      "tags": [
+        "device",
+        "phone"
+      ]
+    },
+    {
+      "name": "device-tablet",
+      "categories": [],
+      "tags": [
+        "device",
+        "tablet"
+      ]
+    },
+    {
+      "name": "directions",
+      "categories": [],
+      "tags": [
+        "directions"
+      ]
+    },
+    {
+      "name": "divide",
+      "categories": [],
+      "tags": [
+        "divide"
+      ]
+    },
+    {
+      "name": "divide-outline",
+      "categories": [],
+      "tags": [
+        "divide",
+        "outline"
+      ]
+    },
+    {
+      "name": "document",
+      "categories": [],
+      "tags": [
+        "document"
+      ]
+    },
+    {
+      "name": "document-add",
+      "categories": [],
+      "tags": [
+        "document",
+        "add"
+      ]
+    },
+    {
+      "name": "document-delete",
+      "categories": [],
+      "tags": [
+        "document",
+        "delete"
+      ]
+    },
+    {
+      "name": "document-text",
+      "categories": [],
+      "tags": [
+        "document",
+        "text"
+      ]
+    },
+    {
+      "name": "download",
+      "categories": [],
+      "tags": [
+        "download"
+      ]
+    },
+    {
+      "name": "download-outline",
+      "categories": [],
+      "tags": [
+        "download",
+        "outline"
+      ]
+    },
+    {
+      "name": "dropbox",
+      "categories": [],
+      "tags": [
+        "dropbox"
+      ]
+    },
+    {
+      "name": "edit",
+      "categories": [],
+      "tags": [
+        "edit"
+      ]
+    },
+    {
+      "name": "eject",
+      "categories": [],
+      "tags": [
+        "eject"
+      ]
+    },
+    {
+      "name": "eject-outline",
+      "categories": [],
+      "tags": [
+        "eject",
+        "outline"
+      ]
+    },
+    {
+      "name": "equals",
+      "categories": [],
+      "tags": [
+        "equals"
+      ]
+    },
+    {
+      "name": "equals-outline",
+      "categories": [],
+      "tags": [
+        "equals",
+        "outline"
+      ]
+    },
+    {
+      "name": "export",
+      "categories": [],
+      "tags": [
+        "export"
+      ]
+    },
+    {
+      "name": "export-outline",
+      "categories": [],
+      "tags": [
+        "export",
+        "outline"
+      ]
+    },
+    {
+      "name": "eye",
+      "categories": [],
+      "tags": [
+        "eye"
+      ]
+    },
+    {
+      "name": "eye-outline",
+      "categories": [],
+      "tags": [
+        "eye",
+        "outline"
+      ]
+    },
+    {
+      "name": "feather",
+      "categories": [],
+      "tags": [
+        "feather"
+      ]
+    },
+    {
+      "name": "film",
+      "categories": [],
+      "tags": [
+        "film"
+      ]
+    },
+    {
+      "name": "filter",
+      "categories": [],
+      "tags": [
+        "filter"
+      ]
+    },
+    {
+      "name": "flag",
+      "categories": [],
+      "tags": [
+        "flag"
+      ]
+    },
+    {
+      "name": "flag-outline",
+      "categories": [],
+      "tags": [
+        "flag",
+        "outline"
+      ]
+    },
+    {
+      "name": "flash",
+      "categories": [],
+      "tags": [
+        "flash"
+      ]
+    },
+    {
+      "name": "flash-outline",
+      "categories": [],
+      "tags": [
+        "flash",
+        "outline"
+      ]
+    },
+    {
+      "name": "flow-children",
+      "categories": [],
+      "tags": [
+        "flow",
+        "children"
+      ]
+    },
+    {
+      "name": "flow-merge",
+      "categories": [],
+      "tags": [
+        "flow",
+        "merge"
+      ]
+    },
+    {
+      "name": "flow-parallel",
+      "categories": [],
+      "tags": [
+        "flow",
+        "parallel"
+      ]
+    },
+    {
+      "name": "flow-switch",
+      "categories": [],
+      "tags": [
+        "flow",
+        "switch"
+      ]
+    },
+    {
+      "name": "folder",
+      "categories": [],
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "folder-add",
+      "categories": [],
+      "tags": [
+        "folder",
+        "add"
+      ]
+    },
+    {
+      "name": "folder-delete",
+      "categories": [],
+      "tags": [
+        "folder",
+        "delete"
+      ]
+    },
+    {
+      "name": "folder-open",
+      "categories": [],
+      "tags": [
+        "folder",
+        "open"
+      ]
+    },
+    {
+      "name": "gift",
+      "categories": [],
+      "tags": [
+        "gift"
+      ]
+    },
+    {
+      "name": "globe",
+      "categories": [],
+      "tags": [
+        "globe"
+      ]
+    },
+    {
+      "name": "globe-outline",
+      "categories": [],
+      "tags": [
+        "globe",
+        "outline"
+      ]
+    },
+    {
+      "name": "group",
+      "categories": [],
+      "tags": [
+        "group"
+      ]
+    },
+    {
+      "name": "group-outline",
+      "categories": [],
+      "tags": [
+        "group",
+        "outline"
+      ]
+    },
+    {
+      "name": "headphones",
+      "categories": [],
+      "tags": [
+        "headphones"
+      ]
+    },
+    {
+      "name": "heart",
+      "categories": [],
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "name": "heart-full-outline",
+      "categories": [],
+      "tags": [
+        "heart",
+        "full",
+        "outline"
+      ]
+    },
+    {
+      "name": "heart-half-outline",
+      "categories": [],
+      "tags": [
+        "heart",
+        "half",
+        "outline"
+      ]
+    },
+    {
+      "name": "heart-outline",
+      "categories": [],
+      "tags": [
+        "heart",
+        "outline"
+      ]
+    },
+    {
+      "name": "home",
+      "categories": [],
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "name": "home-outline",
+      "categories": [],
+      "tags": [
+        "home",
+        "outline"
+      ]
+    },
+    {
+      "name": "html5",
+      "categories": [],
+      "tags": [
+        "html5"
+      ]
+    },
+    {
+      "name": "image",
+      "categories": [],
+      "tags": [
+        "image"
+      ]
+    },
+    {
+      "name": "image-outline",
+      "categories": [],
+      "tags": [
+        "image",
+        "outline"
+      ]
+    },
+    {
+      "name": "infinity",
+      "categories": [],
+      "tags": [
+        "infinity"
+      ]
+    },
+    {
+      "name": "infinity-outline",
+      "categories": [],
+      "tags": [
+        "infinity",
+        "outline"
+      ]
+    },
+    {
+      "name": "info",
+      "categories": [],
+      "tags": [
+        "info"
+      ]
+    },
+    {
+      "name": "info-large",
+      "categories": [],
+      "tags": [
+        "info",
+        "large"
+      ]
+    },
+    {
+      "name": "info-large-outline",
+      "categories": [],
+      "tags": [
+        "info",
+        "large",
+        "outline"
+      ]
+    },
+    {
+      "name": "info-outline",
+      "categories": [],
+      "tags": [
+        "info",
+        "outline"
+      ]
+    },
+    {
+      "name": "input-checked",
+      "categories": [],
+      "tags": [
+        "input",
+        "checked"
+      ]
+    },
+    {
+      "name": "input-checked-outline",
+      "categories": [],
+      "tags": [
+        "input",
+        "checked",
+        "outline"
+      ]
+    },
+    {
+      "name": "key",
+      "categories": [],
+      "tags": [
+        "key"
+      ]
+    },
+    {
+      "name": "key-outline",
+      "categories": [],
+      "tags": [
+        "key",
+        "outline"
+      ]
+    },
+    {
+      "name": "keyboard",
+      "categories": [],
+      "tags": [
+        "keyboard"
+      ]
+    },
+    {
+      "name": "leaf",
+      "categories": [],
+      "tags": [
+        "leaf"
+      ]
+    },
+    {
+      "name": "lightbulb",
+      "categories": [],
+      "tags": [
+        "lightbulb"
+      ]
+    },
+    {
+      "name": "link",
+      "categories": [],
+      "tags": [
+        "link"
+      ]
+    },
+    {
+      "name": "link-outline",
+      "categories": [],
+      "tags": [
+        "link",
+        "outline"
+      ]
+    },
+    {
+      "name": "location",
+      "categories": [],
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "name": "location-arrow",
+      "categories": [],
+      "tags": [
+        "location",
+        "arrow"
+      ]
+    },
+    {
+      "name": "location-arrow-outline",
+      "categories": [],
+      "tags": [
+        "location",
+        "arrow",
+        "outline"
+      ]
+    },
+    {
+      "name": "location-outline",
+      "categories": [],
+      "tags": [
+        "location",
+        "outline"
+      ]
+    },
+    {
+      "name": "lock-closed",
+      "categories": [],
+      "tags": [
+        "lock",
+        "closed"
+      ]
+    },
+    {
+      "name": "lock-closed-outline",
+      "categories": [],
+      "tags": [
+        "lock",
+        "closed",
+        "outline"
+      ]
+    },
+    {
+      "name": "lock-open",
+      "categories": [],
+      "tags": [
+        "lock",
+        "open"
+      ]
+    },
+    {
+      "name": "lock-open-outline",
+      "categories": [],
+      "tags": [
+        "lock",
+        "open",
+        "outline"
+      ]
+    },
+    {
+      "name": "mail",
+      "categories": [],
+      "tags": [
+        "mail"
+      ]
+    },
+    {
+      "name": "map",
+      "categories": [],
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "name": "media-eject",
+      "categories": [],
+      "tags": [
+        "media",
+        "eject"
+      ]
+    },
+    {
+      "name": "media-eject-outline",
+      "categories": [],
+      "tags": [
+        "media",
+        "eject",
+        "outline"
+      ]
+    },
+    {
+      "name": "media-fast-forward",
+      "categories": [],
+      "tags": [
+        "media",
+        "fast",
+        "forward"
+      ]
+    },
+    {
+      "name": "media-fast-forward-outline",
+      "categories": [],
+      "tags": [
+        "media",
+        "fast",
+        "forward",
+        "outline"
+      ]
+    },
+    {
+      "name": "media-pause",
+      "categories": [],
+      "tags": [
+        "media",
+        "pause"
+      ]
+    },
+    {
+      "name": "media-pause-outline",
+      "categories": [],
+      "tags": [
+        "media",
+        "pause",
+        "outline"
+      ]
+    },
+    {
+      "name": "media-play",
+      "categories": [],
+      "tags": [
+        "media",
+        "play"
+      ]
+    },
+    {
+      "name": "media-play-outline",
+      "categories": [],
+      "tags": [
+        "media",
+        "play",
+        "outline"
+      ]
+    },
+    {
+      "name": "media-play-reverse",
+      "categories": [],
+      "tags": [
+        "media",
+        "play",
+        "reverse"
+      ]
+    },
+    {
+      "name": "media-play-reverse-outline",
+      "categories": [],
+      "tags": [
+        "media",
+        "play",
+        "reverse",
+        "outline"
+      ]
+    },
+    {
+      "name": "media-record",
+      "categories": [],
+      "tags": [
+        "media",
+        "record"
+      ]
+    },
+    {
+      "name": "media-record-outline",
+      "categories": [],
+      "tags": [
+        "media",
+        "record",
+        "outline"
+      ]
+    },
+    {
+      "name": "media-rewind",
+      "categories": [],
+      "tags": [
+        "media",
+        "rewind"
+      ]
+    },
+    {
+      "name": "media-rewind-outline",
+      "categories": [],
+      "tags": [
+        "media",
+        "rewind",
+        "outline"
+      ]
+    },
+    {
+      "name": "media-stop",
+      "categories": [],
+      "tags": [
+        "media",
+        "stop"
+      ]
+    },
+    {
+      "name": "media-stop-outline",
+      "categories": [],
+      "tags": [
+        "media",
+        "stop",
+        "outline"
+      ]
+    },
+    {
+      "name": "message",
+      "categories": [],
+      "tags": [
+        "message"
+      ]
+    },
+    {
+      "name": "message-typing",
+      "categories": [],
+      "tags": [
+        "message",
+        "typing"
+      ]
+    },
+    {
+      "name": "messages",
+      "categories": [],
+      "tags": [
+        "messages"
+      ]
+    },
+    {
+      "name": "microphone",
+      "categories": [],
+      "tags": [
+        "microphone"
+      ]
+    },
+    {
+      "name": "microphone-outline",
+      "categories": [],
+      "tags": [
+        "microphone",
+        "outline"
+      ]
+    },
+    {
+      "name": "minus",
+      "categories": [],
+      "tags": [
+        "minus"
+      ]
+    },
+    {
+      "name": "minus-outline",
+      "categories": [],
+      "tags": [
+        "minus",
+        "outline"
+      ]
+    },
+    {
+      "name": "mortar-board",
+      "categories": [],
+      "tags": [
+        "mortar",
+        "board"
+      ]
+    },
+    {
+      "name": "news",
+      "categories": [],
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "name": "notes",
+      "categories": [],
+      "tags": [
+        "notes"
+      ]
+    },
+    {
+      "name": "notes-outline",
+      "categories": [],
+      "tags": [
+        "notes",
+        "outline"
+      ]
+    },
+    {
+      "name": "pen",
+      "categories": [],
+      "tags": [
+        "pen"
+      ]
+    },
+    {
+      "name": "pencil",
+      "categories": [],
+      "tags": [
+        "pencil"
+      ]
+    },
+    {
+      "name": "phone",
+      "categories": [],
+      "tags": [
+        "phone"
+      ]
+    },
+    {
+      "name": "phone-outline",
+      "categories": [],
+      "tags": [
+        "phone",
+        "outline"
+      ]
+    },
+    {
+      "name": "pi",
+      "categories": [],
+      "tags": [
+        "pi"
+      ]
+    },
+    {
+      "name": "pi-outline",
+      "categories": [],
+      "tags": [
+        "pi",
+        "outline"
+      ]
+    },
+    {
+      "name": "pin",
+      "categories": [],
+      "tags": [
+        "pin"
+      ]
+    },
+    {
+      "name": "pin-outline",
+      "categories": [],
+      "tags": [
+        "pin",
+        "outline"
+      ]
+    },
+    {
+      "name": "pipette",
+      "categories": [],
+      "tags": [
+        "pipette"
+      ]
+    },
+    {
+      "name": "plane",
+      "categories": [],
+      "tags": [
+        "plane"
+      ]
+    },
+    {
+      "name": "plane-outline",
+      "categories": [],
+      "tags": [
+        "plane",
+        "outline"
+      ]
+    },
+    {
+      "name": "plug",
+      "categories": [],
+      "tags": [
+        "plug"
+      ]
+    },
+    {
+      "name": "plus",
+      "categories": [],
+      "tags": [
+        "plus"
+      ]
+    },
+    {
+      "name": "plus-outline",
+      "categories": [],
+      "tags": [
+        "plus",
+        "outline"
+      ]
+    },
+    {
+      "name": "point-of-interest",
+      "categories": [],
+      "tags": [
+        "point",
+        "of",
+        "interest"
+      ]
+    },
+    {
+      "name": "point-of-interest-outline",
+      "categories": [],
+      "tags": [
+        "point",
+        "of",
+        "interest",
+        "outline"
+      ]
+    },
+    {
+      "name": "power",
+      "categories": [],
+      "tags": [
+        "power"
+      ]
+    },
+    {
+      "name": "power-outline",
+      "categories": [],
+      "tags": [
+        "power",
+        "outline"
+      ]
+    },
+    {
+      "name": "printer",
+      "categories": [],
+      "tags": [
+        "printer"
+      ]
+    },
+    {
+      "name": "puzzle",
+      "categories": [],
+      "tags": [
+        "puzzle"
+      ]
+    },
+    {
+      "name": "puzzle-outline",
+      "categories": [],
+      "tags": [
+        "puzzle",
+        "outline"
+      ]
+    },
+    {
+      "name": "radar",
+      "categories": [],
+      "tags": [
+        "radar"
+      ]
+    },
+    {
+      "name": "radar-outline",
+      "categories": [],
+      "tags": [
+        "radar",
+        "outline"
+      ]
+    },
+    {
+      "name": "refresh",
+      "categories": [],
+      "tags": [
+        "refresh"
+      ]
+    },
+    {
+      "name": "refresh-outline",
+      "categories": [],
+      "tags": [
+        "refresh",
+        "outline"
+      ]
+    },
+    {
+      "name": "rss",
+      "categories": [],
+      "tags": [
+        "rss"
+      ]
+    },
+    {
+      "name": "rss-outline",
+      "categories": [],
+      "tags": [
+        "rss",
+        "outline"
+      ]
+    },
+    {
+      "name": "scissors",
+      "categories": [],
+      "tags": [
+        "scissors"
+      ]
+    },
+    {
+      "name": "scissors-outline",
+      "categories": [],
+      "tags": [
+        "scissors",
+        "outline"
+      ]
+    },
+    {
+      "name": "shopping-bag",
+      "categories": [],
+      "tags": [
+        "shopping",
+        "bag"
+      ]
+    },
+    {
+      "name": "shopping-cart",
+      "categories": [],
+      "tags": [
+        "shopping",
+        "cart"
+      ]
+    },
+    {
+      "name": "social-at-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "at",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-dribbble",
+      "categories": [],
+      "tags": [
+        "social",
+        "dribbble"
+      ]
+    },
+    {
+      "name": "social-dribbble-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "dribbble",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-facebook",
+      "categories": [],
+      "tags": [
+        "social",
+        "facebook"
+      ]
+    },
+    {
+      "name": "social-facebook-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "facebook",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-flickr",
+      "categories": [],
+      "tags": [
+        "social",
+        "flickr"
+      ]
+    },
+    {
+      "name": "social-flickr-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "flickr",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-github",
+      "categories": [],
+      "tags": [
+        "social",
+        "github"
+      ]
+    },
+    {
+      "name": "social-github-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "github",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-google-plus",
+      "categories": [],
+      "tags": [
+        "social",
+        "google",
+        "plus"
+      ]
+    },
+    {
+      "name": "social-google-plus-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "google",
+        "plus",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-instagram",
+      "categories": [],
+      "tags": [
+        "social",
+        "instagram"
+      ]
+    },
+    {
+      "name": "social-instagram-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "instagram",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-last-fm",
+      "categories": [],
+      "tags": [
+        "social",
+        "last",
+        "fm"
+      ]
+    },
+    {
+      "name": "social-last-fm-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "last",
+        "fm",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-linkedin",
+      "categories": [],
+      "tags": [
+        "social",
+        "linkedin"
+      ]
+    },
+    {
+      "name": "social-linkedin-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "linkedin",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-pinterest",
+      "categories": [],
+      "tags": [
+        "social",
+        "pinterest"
+      ]
+    },
+    {
+      "name": "social-pinterest-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "pinterest",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-skype",
+      "categories": [],
+      "tags": [
+        "social",
+        "skype"
+      ]
+    },
+    {
+      "name": "social-skype-outline",
+      "categories": [],
+      "tags": [
+        "social",
+        "skype",
+        "outline"
+      ]
+    },
+    {
+      "name": "social-tumbler",
+      "categories": [],
+      "tags": [
+        "social",
+        "tumbler"
+      ]
+    },
+    {
+      "name": "social-tumbler-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "tumbler",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-twitter",
+      "categories": [],
+      "tags": [
+        "social",
+        "twitter"
+      ]
+    },
+    {
+      "name": "social-twitter-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "twitter",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-vimeo",
+      "categories": [],
+      "tags": [
+        "social",
+        "vimeo"
+      ]
+    },
+    {
+      "name": "social-vimeo-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "vimeo",
+        "circular"
+      ]
+    },
+    {
+      "name": "social-youtube",
+      "categories": [],
+      "tags": [
+        "social",
+        "youtube"
+      ]
+    },
+    {
+      "name": "social-youtube-circular",
+      "categories": [],
+      "tags": [
+        "social",
+        "youtube",
+        "circular"
+      ]
+    },
+    {
+      "name": "sort-alphabetically",
+      "categories": [],
+      "tags": [
+        "sort",
+        "alphabetically"
+      ]
+    },
+    {
+      "name": "sort-alphabetically-outline",
+      "categories": [],
+      "tags": [
+        "sort",
+        "alphabetically",
+        "outline"
+      ]
+    },
+    {
+      "name": "sort-numerically",
+      "categories": [],
+      "tags": [
+        "sort",
+        "numerically"
+      ]
+    },
+    {
+      "name": "sort-numerically-outline",
+      "categories": [],
+      "tags": [
+        "sort",
+        "numerically",
+        "outline"
+      ]
+    },
+    {
+      "name": "spanner",
+      "categories": [],
+      "tags": [
+        "spanner"
+      ]
+    },
+    {
+      "name": "spanner-outline",
+      "categories": [],
+      "tags": [
+        "spanner",
+        "outline"
+      ]
+    },
+    {
+      "name": "spiral",
+      "categories": [],
+      "tags": [
+        "spiral"
+      ]
+    },
+    {
+      "name": "star",
+      "categories": [],
+      "tags": [
+        "star"
+      ]
+    },
+    {
+      "name": "star-full-outline",
+      "categories": [],
+      "tags": [
+        "star",
+        "full",
+        "outline"
+      ]
+    },
+    {
+      "name": "star-half",
+      "categories": [],
+      "tags": [
+        "star",
+        "half"
+      ]
+    },
+    {
+      "name": "star-half-outline",
+      "categories": [],
+      "tags": [
+        "star",
+        "half",
+        "outline"
+      ]
+    },
+    {
+      "name": "star-outline",
+      "categories": [],
+      "tags": [
+        "star",
+        "outline"
+      ]
+    },
+    {
+      "name": "starburst",
+      "categories": [],
+      "tags": [
+        "starburst"
+      ]
+    },
+    {
+      "name": "starburst-outline",
+      "categories": [],
+      "tags": [
+        "starburst",
+        "outline"
+      ]
+    },
+    {
+      "name": "stopwatch",
+      "categories": [],
+      "tags": [
+        "stopwatch"
+      ]
+    },
+    {
+      "name": "support",
+      "categories": [],
+      "tags": [
+        "support"
+      ]
+    },
+    {
+      "name": "tabs-outline",
+      "categories": [],
+      "tags": [
+        "tabs",
+        "outline"
+      ]
+    },
+    {
+      "name": "tag",
+      "categories": [],
+      "tags": [
+        "tag"
+      ]
+    },
+    {
+      "name": "tags",
+      "categories": [],
+      "tags": [
+        "tags"
+      ]
+    },
+    {
+      "name": "th-large",
+      "categories": [],
+      "tags": [
+        "th",
+        "large"
+      ]
+    },
+    {
+      "name": "th-large-outline",
+      "categories": [],
+      "tags": [
+        "th",
+        "large",
+        "outline"
+      ]
+    },
+    {
+      "name": "th-list",
+      "categories": [],
+      "tags": [
+        "th",
+        "list"
+      ]
+    },
+    {
+      "name": "th-list-outline",
+      "categories": [],
+      "tags": [
+        "th",
+        "list",
+        "outline"
+      ]
+    },
+    {
+      "name": "th-menu",
+      "categories": [],
+      "tags": [
+        "th",
+        "menu"
+      ]
+    },
+    {
+      "name": "th-menu-outline",
+      "categories": [],
+      "tags": [
+        "th",
+        "menu",
+        "outline"
+      ]
+    },
+    {
+      "name": "th-small",
+      "categories": [],
+      "tags": [
+        "th",
+        "small"
+      ]
+    },
+    {
+      "name": "th-small-outline",
+      "categories": [],
+      "tags": [
+        "th",
+        "small",
+        "outline"
+      ]
+    },
+    {
+      "name": "thermometer",
+      "categories": [],
+      "tags": [
+        "thermometer"
+      ]
+    },
+    {
+      "name": "thumbs-down",
+      "categories": [],
+      "tags": [
+        "thumbs",
+        "down"
+      ]
+    },
+    {
+      "name": "thumbs-ok",
+      "categories": [],
+      "tags": [
+        "thumbs",
+        "ok"
+      ]
+    },
+    {
+      "name": "thumbs-up",
+      "categories": [],
+      "tags": [
+        "thumbs",
+        "up"
+      ]
+    },
+    {
+      "name": "tick",
+      "categories": [],
+      "tags": [
+        "tick"
+      ]
+    },
+    {
+      "name": "tick-outline",
+      "categories": [],
+      "tags": [
+        "tick",
+        "outline"
+      ]
+    },
+    {
+      "name": "ticket",
+      "categories": [],
+      "tags": [
+        "ticket"
+      ]
+    },
+    {
+      "name": "time",
+      "categories": [],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "name": "times",
+      "categories": [],
+      "tags": [
+        "times"
+      ]
+    },
+    {
+      "name": "times-outline",
+      "categories": [],
+      "tags": [
+        "times",
+        "outline"
+      ]
+    },
+    {
+      "name": "trash",
+      "categories": [],
+      "tags": [
+        "trash"
+      ]
+    },
+    {
+      "name": "tree",
+      "categories": [],
+      "tags": [
+        "tree"
+      ]
+    },
+    {
+      "name": "upload",
+      "categories": [],
+      "tags": [
+        "upload"
+      ]
+    },
+    {
+      "name": "upload-outline",
+      "categories": [],
+      "tags": [
+        "upload",
+        "outline"
+      ]
+    },
+    {
+      "name": "user",
+      "categories": [],
+      "tags": [
+        "user"
+      ]
+    },
+    {
+      "name": "user-add",
+      "categories": [],
+      "tags": [
+        "user",
+        "add"
+      ]
+    },
+    {
+      "name": "user-add-outline",
+      "categories": [],
+      "tags": [
+        "user",
+        "add",
+        "outline"
+      ]
+    },
+    {
+      "name": "user-delete",
+      "categories": [],
+      "tags": [
+        "user",
+        "delete"
+      ]
+    },
+    {
+      "name": "user-delete-outline",
+      "categories": [],
+      "tags": [
+        "user",
+        "delete",
+        "outline"
+      ]
+    },
+    {
+      "name": "user-outline",
+      "categories": [],
+      "tags": [
+        "user",
+        "outline"
+      ]
+    },
+    {
+      "name": "vendor-android",
+      "categories": [],
+      "tags": [
+        "vendor",
+        "android"
+      ]
+    },
+    {
+      "name": "vendor-apple",
+      "categories": [],
+      "tags": [
+        "vendor",
+        "apple"
+      ]
+    },
+    {
+      "name": "vendor-microsoft",
+      "categories": [],
+      "tags": [
+        "vendor",
+        "microsoft"
+      ]
+    },
+    {
+      "name": "video",
+      "categories": [],
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "name": "video-outline",
+      "categories": [],
+      "tags": [
+        "video",
+        "outline"
+      ]
+    },
+    {
+      "name": "volume",
+      "categories": [],
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "name": "volume-down",
+      "categories": [],
+      "tags": [
+        "volume",
+        "down"
+      ]
+    },
+    {
+      "name": "volume-mute",
+      "categories": [],
+      "tags": [
+        "volume",
+        "mute"
+      ]
+    },
+    {
+      "name": "volume-up",
+      "categories": [],
+      "tags": [
+        "volume",
+        "up"
+      ]
+    },
+    {
+      "name": "warning",
+      "categories": [],
+      "tags": [
+        "warning"
+      ]
+    },
+    {
+      "name": "warning-outline",
+      "categories": [],
+      "tags": [
+        "warning",
+        "outline"
+      ]
+    },
+    {
+      "name": "watch",
+      "categories": [],
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "name": "waves",
+      "categories": [],
+      "tags": [
+        "waves"
+      ]
+    },
+    {
+      "name": "waves-outline",
+      "categories": [],
+      "tags": [
+        "waves",
+        "outline"
+      ]
+    },
+    {
+      "name": "weather-cloudy",
+      "categories": [],
+      "tags": [
+        "weather",
+        "cloudy"
+      ]
+    },
+    {
+      "name": "weather-downpour",
+      "categories": [],
+      "tags": [
+        "weather",
+        "downpour"
+      ]
+    },
+    {
+      "name": "weather-night",
+      "categories": [],
+      "tags": [
+        "weather",
+        "night"
+      ]
+    },
+    {
+      "name": "weather-partly-sunny",
+      "categories": [],
+      "tags": [
+        "weather",
+        "partly",
+        "sunny"
+      ]
+    },
+    {
+      "name": "weather-shower",
+      "categories": [],
+      "tags": [
+        "weather",
+        "shower"
+      ]
+    },
+    {
+      "name": "weather-snow",
+      "categories": [],
+      "tags": [
+        "weather",
+        "snow"
+      ]
+    },
+    {
+      "name": "weather-stormy",
+      "categories": [],
+      "tags": [
+        "weather",
+        "stormy"
+      ]
+    },
+    {
+      "name": "weather-sunny",
+      "categories": [],
+      "tags": [
+        "weather",
+        "sunny"
+      ]
+    },
+    {
+      "name": "weather-windy",
+      "categories": [],
+      "tags": [
+        "weather",
+        "windy"
+      ]
+    },
+    {
+      "name": "weather-windy-cloudy",
+      "categories": [],
+      "tags": [
+        "weather",
+        "windy",
+        "cloudy"
+      ]
+    },
+    {
+      "name": "wi-fi",
+      "categories": [],
+      "tags": [
+        "wi",
+        "fi"
+      ]
+    },
+    {
+      "name": "wi-fi-outline",
+      "categories": [],
+      "tags": [
+        "wi",
+        "fi",
+        "outline"
+      ]
+    },
+    {
+      "name": "wine",
+      "categories": [],
+      "tags": [
+        "wine"
+      ]
+    },
+    {
+      "name": "world",
+      "categories": [],
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "name": "world-outline",
+      "categories": [],
+      "tags": [
+        "world",
+        "outline"
+      ]
+    },
+    {
+      "name": "zoom",
+      "categories": [],
+      "tags": [
+        "zoom"
+      ]
+    },
+    {
+      "name": "zoom-in",
+      "categories": [],
+      "tags": [
+        "zoom",
+        "in"
+      ]
+    },
+    {
+      "name": "zoom-in-outline",
+      "categories": [],
+      "tags": [
+        "zoom",
+        "in",
+        "outline"
+      ]
+    },
+    {
+      "name": "zoom-out",
+      "categories": [],
+      "tags": [
+        "zoom",
+        "out"
+      ]
+    },
+    {
+      "name": "zoom-out-outline",
+      "categories": [],
+      "tags": [
+        "zoom",
+        "out",
+        "outline"
+      ]
+    },
+    {
+      "name": "zoom-outline",
+      "categories": [],
+      "tags": [
+        "zoom",
+        "outline"
+      ]
+    }
+  ]
+}

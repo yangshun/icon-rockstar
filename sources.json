@@ -9,5 +9,6 @@
   ],
   "sourcesPath": "icons_sources_manifest",
   "metaPath": "icons_meta",
-  "componentsPath": "bower_components"
+  "componentsPath": "bower_components",
+  "unified": "unified-meta.json"
 }

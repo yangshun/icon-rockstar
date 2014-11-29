@@ -26,7 +26,8 @@ module.exports = function (grunt) {
     source: sourcesConfig.sourcesPath || 'icons_sources_manifest',
     meta: sourcesConfig.metaPath || 'icons_meta',
     components: sourcesConfig.componentsPath || 'bower_components',
-    sourceList: sourcesConfig.sources
+    sourceList: sourcesConfig.sources,
+    unified: sourcesConfig.unified || 'unified-meta.json'
   };
 
   // Define the configuration for all the tasks
@@ -396,6 +397,10 @@ module.exports = function (grunt) {
     },
 
     iconmeta: {
+      options: iconConfig
+    },
+
+    invert: {
       options: iconConfig
     }
   });

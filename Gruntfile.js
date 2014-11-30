@@ -447,7 +447,9 @@ module.exports = function (grunt) {
     'uglify',
     'filerev',
     'usemin',
-    'htmlmin'
+    'htmlmin',
+    'rockstar',
+    'index'
   ]);
 
   grunt.registerTask('default', [

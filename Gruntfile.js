@@ -400,7 +400,7 @@ module.exports = function (grunt) {
       options: iconConfig
     },
 
-    invert: {
+    unify: {
       options: iconConfig
     }
   });
@@ -458,7 +458,7 @@ module.exports = function (grunt) {
 
   grunt.registerTask('index', 'Create an inverted index of tags to icons from meta file', function (target) {
     grunt.loadTasks('tasks');
-    return grunt.task.run(['invert']);
+    return grunt.task.run(['unify']);
   });
 
   grunt.registerTask('iconmeta', 'Create meta file for a given icon source', function (target) {

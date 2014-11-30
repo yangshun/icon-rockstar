@@ -461,16 +461,8 @@ module.exports = function (grunt) {
     return grunt.task.run(['unify']);
   });
 
-  grunt.registerTask('iconmeta', 'Create meta file for a given icon source', function (target) {
+  grunt.registerTask('rockstar', 'Create meta file for a given icon source or all sources', function (target) {
     grunt.loadTasks('tasks');
     return grunt.task.run(['iconmeta:' + (target ? target : 'all')]);
-  });
-
-  grunt.registerTask('rockstar', 'Compile then start a connect web server', function (target) {
-    grunt.loadTasks('tasks');
-    return grunt.task.run([
-      'iconmeta:all',
-      'invert'
-    ]);
   });
 };
